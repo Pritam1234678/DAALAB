@@ -1,0 +1,1 @@
+duplicate values = 4 repeating element = 10
