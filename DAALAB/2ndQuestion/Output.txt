@@ -1,1 +1,0 @@
-prefix Sum Array3 7 12 13 15 
